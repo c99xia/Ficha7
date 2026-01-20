@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Agenda.cpp" />
+    <ClCompile Include="Contacto.cpp" />
     <ClCompile Include="Ex3_map.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Agenda.h" />
+    <ClInclude Include="Contacto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

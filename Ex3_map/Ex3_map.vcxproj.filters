@@ -18,5 +18,19 @@
     <ClCompile Include="Ex3_map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Contacto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Agenda.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Contacto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Agenda.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
