@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{807b33ab-64d4-47c5-9902-63c13851ac00}</ProjectGuid>
-    <RootNamespace>Ex1</RootNamespace>
+    <ProjectGuid>{16ce2862-6247-43ed-ad87-7fe003956d2a}</ProjectGuid>
+    <RootNamespace>Ex1aarray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Ex1.cpp" />
+    <ClCompile Include="Coisa.cpp" />
+    <ClCompile Include="Ex1a_array.cpp" />
+    <ClCompile Include="ListaCompra.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Coisa.h" />
+    <ClInclude Include="ListaCompra.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
