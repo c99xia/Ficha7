@@ -5,7 +5,6 @@
 
 class ListaCompra {
 public:
-    ListaCompra();
     bool adiciona(string nome, int qty);
     bool removeQty(string nome, int qty);
     bool elimina(string nome);

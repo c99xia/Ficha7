@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 using std::string;
+#include <stdexcept>
 
 // Representa um item a comprar (nome + quantidade)
 class Coisa {
