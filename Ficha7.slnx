@@ -8,5 +8,7 @@
   </Folder>
   <Project Path="Ex1a_array/Ex1a_array.vcxproj" Id="16ce2862-6247-43ed-ad87-7fe003956d2a" />
   <Project Path="Ex1b_vector/Ex1b_vector.vcxproj" Id="2fd434b6-5a4d-43d4-9446-4ae68fcfc738" />
+  <Project Path="Ex1c_set/Ex1c_set.vcxproj" Id="efcdf881-b0a2-487c-8dcb-e947e0a6c3c7" />
+  <Project Path="Ex3_map/Ex3_map.vcxproj" Id="ac29d059-47c1-48b6-b293-422c6d906505" />
   <Project Path="Ex5/Ex5.vcxproj" Id="cb465806-6d72-482d-b32a-c0acfdf43ff9" />
 </Solution>
